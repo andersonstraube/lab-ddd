@@ -1,3 +1,3 @@
-# LAB DDD
+# LAB DDD e Arquitetura Hexagonal
 
-Testes de DDD e Arquitetura Hexagonal
+![Arquitetura](<arquitetura.png>) 
